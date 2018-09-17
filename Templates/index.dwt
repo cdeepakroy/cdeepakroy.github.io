@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" type="text/css" href="../layout.css" />
+
+	<!-- TemplateBeginEditable name="doctitle" -->
+		<title>Homepage of Deepak Roy Chittajallu</title>
+	<!-- TemplateEndEditable -->
+
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>	
+	<div id="center">
+		<div id="top">
+			<br/>
+			<h1>Homepage of Deepak Roy Chittajallu</h1>
+		</div>		
+		<div id="navigation">
+		  <ul>
+				<li><a href="../index.html">ABOUT ME</a></li>
+				<li><a href="../cv.html">MY CURRICULUM VITAE</a></li>
+				<li>MY RESEARCH ENDEAVORS
+					
+					<ul>
+					  <li><a href="../post_doctoral_research.html">Post-doctoral Research</a></li>
+					  <li><a href="../doctoral_research.html">Doctoral Research</a></li>
+					  <li><a href="../masters_research.html">Masters Research</a></li>
+					  <li><a href="../undergraduate_research.html">Undergraduate Research</a></li>			
+					  <li><a href="../independent_research.html">Independent Study/Research</a></li>	  
+					</ul>
+				</li>
+				<li><a href="../publications.html">MY PUBLICATIONS</a></li>
+				<li><a href="http://mathgotchas.blogspot.com/" target="new">MY TECH BLOG</a></li>
+			</ul>
+		</div>
+		
+		<div id="main">
+			<!-- TemplateBeginEditable name="webpage content" -->
+			<div id="content">			
+				webpage content
+			</div>
+			<!-- TemplateEndEditable -->	  
+			<div class="cleaner"> &nbsp;</div>               
+	  	</div>
+	</div>
+	
+	<div id="footer">Copyright by Deepak Roy Chittajallu</div>
+					
+</body>
+</html>
